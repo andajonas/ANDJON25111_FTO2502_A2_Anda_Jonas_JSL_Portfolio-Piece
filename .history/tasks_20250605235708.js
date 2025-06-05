@@ -66,4 +66,4 @@ export function deleteTask(taskId) {
   initialTasks.splice(index, 1);
   delete taskMap[taskId];
   return true;
-}
+}gi
